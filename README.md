@@ -1,4 +1,4 @@
-# Signature-verification-using-deep-learning
+# Signature-Verification
 Using SigComp'11 dataset for signature verification (With Siamese network and triplet loss) 
 
 ## Getting Started 
